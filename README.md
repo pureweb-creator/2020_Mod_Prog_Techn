@@ -31,3 +31,4 @@
 ## 5. РІЗНЕ
 ### **1.   GITHUB**     [-->](..\Info_GIT\Diff_YouTube)
 ### **2.   ATOM**
+- [Atom on YouTube](Info_Atom/Diff_Info.md)
