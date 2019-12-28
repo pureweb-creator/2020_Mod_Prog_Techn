@@ -31,6 +31,6 @@
 ## 3. ТЕМАТИКА КУРСОВИХ ПРОЕКТІВ
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
-* ### **GITHUB**
+* ### [**GITHUB**] (/Diff_Git_Atom_MarkDown/GitHub.md)
 * ### [**ATOM**](/Diff_Git_Atom_MarkDown/Atom.md)
-* ### **MarkDown**
+* ### [**MarkDown**]()
