@@ -30,7 +30,11 @@
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
 ### **1. Щодо GITHUB**
+- [Введение в GitHub](https://habr.com/ru/post/472600)
 - [GitHub на YouTube](Info_GIT/Diff_YouTube.md)
 ### **2. Щодо ATOM**
+- [Офіційний сайт Atom](https://atom.io/)
 - [Atom on YouTube](Info_Atom/Diff_Info.md)
-
+### **3. MarkDown**
+- [Руководство](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+- [Шпаргалка](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print)
