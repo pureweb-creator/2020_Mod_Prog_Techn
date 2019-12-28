@@ -30,4 +30,9 @@
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
 ### **1.   GITHUB**     [-->](..\Info_GIT\Diff_YouTube)
-### **2.   ATOM**
+### **2.   ATOM**  [Atom]
+
+
+
+[Atom] (https://github.com/eabshkvprof/2020_Mod_Prog_Techn/blob/1ae822e029f54eec6feee8726ec757f00d9fbc26/Info_Atom/Diff_Info)
+
