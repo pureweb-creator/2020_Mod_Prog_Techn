@@ -33,4 +33,4 @@
 ## 5. РІЗНЕ
 * ### [**GITHUB**] (/Diff_Git_Atom_MarkDown/GitHub.md)
 * ### [**ATOM**](/Diff_Git_Atom_MarkDown/Atom.md)
-* ### [**MarkDown**]()
+* ### [**MarkDown**](/Diff_Git_Atom_MarkDown/Mark.md)
