@@ -30,7 +30,7 @@
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
 ### **1. Щодо GITHUB**
-- [GitHub на компютері](Info_Atom/Diff_Info.md)
+- [GitHub на YouTube](Info_GIT/Diff_YouTube.md)
 ### **2. Щодо ATOM**
 - [Atom on YouTube](Info_Atom/Diff_Info.md)
 
