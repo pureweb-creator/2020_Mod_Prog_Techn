@@ -29,16 +29,7 @@
 ## 3. ТЕМАТИКА КУРСОВЫХ ПРОЕКТОВ
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
-<<<<<<< HEAD
-### **1.   GITHUB**     [-->](..\Info_GIT\Diff_YouTube)
+### **1.   GITHUB**
 ### **2.   ATOM**
 - [Atom on YouTube](Info_Atom/Diff_Info.md)
-=======
-[**Abiut GitHub**](Info_GIT/\Diff_YouTube.md)
-### **2.   ATOM**  [Atom]
 
-
-
-[Atom] (https://github.com/eabshkvprof/2020_Mod_Prog_Techn/blob/1ae822e029f54eec6feee8726ec757f00d9fbc26/Info_Atom/Diff_Info)
-
->>>>>>> 01212b362b5ca3ca4f15a90e441ecf303c457276
