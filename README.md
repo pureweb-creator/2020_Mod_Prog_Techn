@@ -29,7 +29,8 @@
 ## 3. ТЕМАТИКА КУРСОВЫХ ПРОЕКТОВ
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
-### **1.   GITHUB**
-### **2.   ATOM**
+### **1. Щодо GITHUB**
+- [GitHub на компютері](Info_Atom/Diff_Info.md)
+### **2. Щодо ATOM**
 - [Atom on YouTube](Info_Atom/Diff_Info.md)
 
