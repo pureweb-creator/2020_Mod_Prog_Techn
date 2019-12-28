@@ -29,7 +29,7 @@
 ## 3. ТЕМАТИКА КУРСОВЫХ ПРОЕКТОВ
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
-### **1.   GITHUB**     [-->](..\Info_GIT\Diff_YouTube)
+### [**1. GITHUB**](\Info_GIT\Diff_YouTube.md)
 ### **2.   ATOM**  [Atom]
 
 
