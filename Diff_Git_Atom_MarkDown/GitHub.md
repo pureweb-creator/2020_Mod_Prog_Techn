@@ -1,4 +1,6 @@
 # **GIT HAB** #
+- [Main WebSite](https://github.com/)
+- [GitHub DeskTop](https://desktop.github.com/)
 - [Введение в GitHub](https://habr.com/ru/post/472600)
 
 # **GitHUB on YouTube**  
