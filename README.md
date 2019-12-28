@@ -32,5 +32,5 @@
 ## 4. ЛИТЕРАТУРА
 ## 5. РІЗНЕ
 * ### **GITHUB**
-* ### **ATOM**
+* ### [**ATOM**](/Diff_Git_Atom_MarkDown/Atom.md)
 * ### **MarkDown**
