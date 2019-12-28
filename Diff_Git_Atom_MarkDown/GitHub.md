@@ -1,5 +1,8 @@
-# **GitHUB on YouTube**
+# **GIT HAB** #
+- [Введение в GitHub](https://habr.com/ru/post/472600)
+- [GitHub на YouTube](Info_GIT/Diff_YouTube.md)
 
+# **GitHUB on YouTube**  
 ## Github для новичков
 - [**Урок_1**](https://www.youtube.com/watch?v=Rke_Z1-nvUM)
 
