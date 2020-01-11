@@ -20,11 +20,11 @@
 
 ### **МОДУЛЬ 02** -> *UML: УНІФІКОВАНА МОВА МОДЕЛЮВАННЯ*
 >### **Тема 7. Структурні діаграми:**
-Діаграми класів (Class Diagram), об’єктів (Object Diagram), компонентів (Component Diagram), композитів (Composite Structural Diagram), кооперацій (Collaboration), розгортання (Deployment Diagram), пакетів (Package Diagram).  [UML. 2]  
+Діаграми класів (Class Diagram), об’єктів (Object Diagram), компонентів (Component Diagram), композитів (Composite Structural Diagram), кооперацій (Collaboration), розгортання (Deployment Diagram), пакетів (Package Diagram).  [[UML. 2]](Biblio/UML_books_.md)  
 >### **Тема 8. Поведінкові UML Діаграми**:
-Діаграми послідовності (Sequence Diagram), комунікації (Communication Diagram), огляду взаємодії (Interaction Overview Diagram), синхронізації (Timing Diagram), діяльності (Activity Diagram),  прецедентів (Use case diagram), станів (State Machine diagram).  [UML. 2]  
+Діаграми послідовності (Sequence Diagram), комунікації (Communication Diagram), огляду взаємодії (Interaction Overview Diagram), синхронізації (Timing Diagram), діяльності (Activity Diagram),  прецедентів (Use case diagram), станів (State Machine diagram).  [[UML. 2]](Biblio/UML_books_.md)  
 >### **Тема 9. Рефакторінг з використанням UML:**.
-Принципи рефакторінгу програм. Створення методу рефакторінгу, переміщення функцій між обєктами, заміни, спрощення викликів.  Автоматична генерація шаблонів за допомогою інструментарію UML. [UML. 3]
+Принципи рефакторінгу програм. Створення методу рефакторінгу, переміщення функцій між обєктами, заміни, спрощення викликів.  Автоматична генерація шаблонів за допомогою інструментарію UML. [[UML. 3]](Biblio/UML_books_.md)
 
 ### **МОДУЛЬ 03** -> *PYTHON: ВИСОКОРІВНЕВА МОВА ПРОГРАМУВАННЯ*
 >### **Тема 10. Неформальний вступ до мови програмування Python**.  
