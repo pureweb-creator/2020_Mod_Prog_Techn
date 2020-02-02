@@ -13,4 +13,4 @@
 
 ### МОДУЛІ PYTHON
 1. ### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
-1. ### Матричні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
+1. ### Математичні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
