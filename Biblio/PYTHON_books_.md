@@ -10,3 +10,7 @@
 1. **Tagliaferri L. How To Code in Python 3**.- DigitalOcean, New York City, New York, USA.- ISBN 978-0-9997730-1-7
 1. **Хеллман Д. Стандартная библиотека Python 3**: справочник с примерами, 2-е изд. : Пер. с англ. — СПб. : ООО “Диалектика”, 2019. — 1376 с. : ил. LSBN 978-5-6040043-8-8 (рус.)
 1. **Копец Д. Классические задачи Computer Science на языке Python**. - СПб.: Питер, 2020. 256 с.: ил. - (Серия «Библиотека программиста).ISBN 978-5-4461-1428-3
+
+### МОДУЛІ PYTHON
+1. ### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
+1. ### Матричні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
