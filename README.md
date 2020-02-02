@@ -46,9 +46,9 @@
 ## 4. [**КРИТЕРІЇ ОЦІНЮВАННЯ**](/Criterion_MPT_full.pdf)
 
 ## 5. **РЕКОМЕНДОВНА ЛІТЕРАТУРА**
-* ### **Модуль 1.** [**PYTHON**](/Diff_Git_Atom_MarkDown/Mark.md)
-* ### **Модуль 2.** [**ТЕХНОЛОГІЇ**](/Diff_Git_Atom_MarkDown/GitHub.md)
-* ### **Модуль 3.** [**UML**](/Diff_Git_Atom_MarkDown/Atom.md)
+* ### **Модуль 1.** [**PYTHON**](/Biblio/PYTHON_books_.md)
+* ### **Модуль 2.** [**ТЕХНОЛОГІЇ**](/Biblio/Techniq_books_.md)
+* ### **Модуль 3.** [**UML**](/Biblio/UML_books_.md)
 
 ## 6. **РІЗНЕ (GitHub, Atom, Markdown)**
 * ### [**GITHUB**](/Diff_Git_Atom_MarkDown/GitHub.md)
