@@ -1,5 +1,5 @@
-## [ЛАБОРАТОРНА РОБОТА №01.](/Lab_Works/Lab_01) PYTHON & ANACONDA. Вступ. While, For, If.
-## [ЛАБОРАТОРНА РОБОТА №02.](/Lab_Works/Lab_02) PYTHON. Функції
+## [ЛАБОРАТОРНА РОБОТА №01.](/Lab_Works/Lab_01/Lab_Works_01_Descript.md) PYTHON & ANACONDA. Вступ. While, For, If.
+## [ЛАБОРАТОРНА РОБОТА №02.](/Lab_Works/Lab_02/Lab_Works_02_Descript.md) PYTHON. Функції
 ## ЛАБОРАТОРНА РОБОТА №03. PYTHON. Структури: Рядки, списки
 ## ЛАБОРАТОРНА РОБОТА №04. PYTHON. Структури: Кортежі, словники
 ## ЛАБОРАТОРНА РОБОТА №05. PYTHON. IDE Spyder. Модулі, пакети
