@@ -6,6 +6,8 @@
 >### [**Лекція 1**](/Lections/Modulo_1/2020_MPT_Lec_01_.pdf)
 >### [**Лекція 2**](/Lections/Modulo_1/2020_MPT_Lec_02_.pdf)  // [**Приклад**](/Lections/Modulo_1/EXAMPL_LEC_02_PYTHON_01.ipynb)
 >### [**Лекція 3**](/Lections/Modulo_1/2020_MPT_Lec_03_.pdf) //  [**Приклад Collection**](/Lections/Modulo_1/EXAMPL_LEC_03_PYTHON_02_Collect.ipynb) // [**Приклад String**](/Lections/Modulo_1/EXAMPL_LEC_03_PYTHON_02_String.ipynb)
+>### [**Лекція 4**](/Lections/Modulo_1/2020_MPT_Lec_04_.pdf) //  [**Приклад List**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_List.ipynb) // [**Приклад Dict**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_Dict.ipynb)
+>### [**Лекція 5**](/Lections/Modulo_1/2020_MPT_Lec_05_.pdf) //  [**Приклад Tuple**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Tuple.ipynb) // [**Приклад Set**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Set.ipynb)
 
 ### **Тема 2. Функції в Python.**
 Параметри та аргументи функцій. Локальні та глобальні змінні. Рекурсивний виклик функцій.
