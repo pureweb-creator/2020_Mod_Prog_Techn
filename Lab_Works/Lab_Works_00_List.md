@@ -1,7 +1,7 @@
 ## [ЛАБОРАТОРНА РОБОТА №01.](/Lab_Works/Lab_01/Lab_Works_01_Descript.md) PYTHON. Вступ. While, For, If.
 ## [ЛАБОРАТОРНА РОБОТА №02.](/Lab_Works/Lab_02/Lab_Works_02_Descript.md) PYTHON. Функції
 ## [ЛАБОРАТОРНА РОБОТА №03.](/Lab_Works/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Рядки, списки
-## [ЛАБОРАТОРНА РОБОТА №04.] (/Lab_Works/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Кортежі, словники
+## [ЛАБОРАТОРНА РОБОТА №04.](/Lab_Works/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Кортежі, словники
 ## ЛАБОРАТОРНА РОБОТА №05. PYTHON. IDE Spyder. Модулі, пакети
 ## ЛАБОРАТОРНА РОБОТА №06. PYTHON. Класи.
 ## ЛАБОРАТОРНА РОБОТА №07. PYTHON. Файли. Виняткові ситуації.
