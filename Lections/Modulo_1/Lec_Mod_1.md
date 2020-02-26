@@ -9,7 +9,8 @@
 >### [**Лекція 3**](/Lections/Modulo_1/2020_MPT_Lec_03_.pdf) //  [**Приклад Collection**](/Lections/Modulo_1/EXAMPL_LEC_03_PYTHON_02_Collect.ipynb) // [**Приклад String**](/Lections/Modulo_1/EXAMPL_LEC_03_PYTHON_02_String.ipynb)
 >### [**Лекція 4**](/Lections/Modulo_1/2020_MPT_Lec_04_.pdf) //  [**Приклад List**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_List.ipynb) // [**Приклад Dict**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_Dict.ipynb)
 >### [**Лекція 5**](/Lections/Modulo_1/2020_MPT_Lec_05_.pdf) //  [**Приклад Tuple**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Tuple.ipynb) // [**Приклад Set**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Set.ipynb)
->### [**Лекція 6**](/Lections/Modulo_1/2020_MPT_Lec_06_.pdf) // [**Приклад File**](/Lections/Modulo_1/EXAMPL_LEC_06_PYTHON_05_Set.ipynb)
+>### [**Лекція 6**](/Lections/Modulo_1/2020_MPT_Lec_06_.pdf) // [**Приклад File**](/Lections/Modulo_1/EXAMPL_LEC_06_PYTHON_05_File.ipynb)
+
 ### **Тема 2. Функції в Python.**
 Параметри та аргументи функцій. Локальні та глобальні змінні. Рекурсивний виклик функцій.
 ### **Тема 3. Класи та об’єкти.**
