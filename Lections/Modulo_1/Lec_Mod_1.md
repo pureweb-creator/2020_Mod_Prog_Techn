@@ -10,9 +10,10 @@
 >### [**Лекція 4**](/Lections/Modulo_1/2020_MPT_Lec_04_.pdf) //  [**Приклад List**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_List.ipynb) // [**Приклад Dict**](/Lections/Modulo_1/EXAMPL_LEC_04_PYTHON_03_Dict.ipynb)
 >### [**Лекція 5**](/Lections/Modulo_1/2020_MPT_Lec_05_.pdf) //  [**Приклад Tuple**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Tuple.ipynb) // [**Приклад Set**](/Lections/Modulo_1/EXAMPL_LEC_05_PYTHON_04_Set.ipynb)
 >### [**Лекція 6**](/Lections/Modulo_1/2020_MPT_Lec_06_.pdf) // [**Приклад File**](/Lections/Modulo_1/EXAMPL_LEC_06_PYTHON_05_File.ipynb)
-
 ### **Тема 2. Функції в Python.**
-Параметри та аргументи функцій. Локальні та глобальні змінні. Рекурсивний виклик функцій.
+**Параметри та аргументи функцій. Локальні та глобальні змінні. Рекурсивний виклик функцій.**
+>### [**Лекція 7**](/Lections/Modulo_1/2020_MPT_Lec_07_.pdf) // [**Приклад Func 1**](/Lections/Modulo_1/EXAMPL_LEC_07_PYTHON_06_Func.ipynb)
+>### [**Лекція 8**](/Lections/Modulo_1/2020_MPT_Lec_08_.pdf) // [**Приклад Func 2**](/Lections/Modulo_1/EXAMPL_LEC_08_PYTHON_06_Func.ipynb)
 ### **Тема 3. Класи та об’єкти.**
 Основні відомості. Опис класу. Області видимості та простір імен. Доступ до елементів класу. Підтримка ООП в  Python: інкапсуляція, спадкування, поліморфізм. Атрибути класу, атрибути об’єкту. Закриті атрибути. Визначення та оголошення функцій та класів. Типи та класи в Python.
 ### **Тема 4. Організація проектів в Python.**
