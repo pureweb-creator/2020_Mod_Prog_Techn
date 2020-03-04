@@ -3,7 +3,7 @@
 ## [ЛАБОРАТОРНА РОБОТА №03.](/Lab_Works/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Рядки, списки
 ## [ЛАБОРАТОРНА РОБОТА №04.](/Lab_Works/Lab_04/Lab_Works_04_Descript.md) PYTHON. Структури: Кортежі, словники
 ## [ЛАБОРАТОРНА РОБОТА №05.](/Lab_Works/Lab_05/Lab_Works_05_Descript.md) PYTHON. Робота з файлами
-## ЛАБОРАТОРНА РОБОТА №06. PYTHON. Рекурсивні функції.
+## [ЛАБОРАТОРНА РОБОТА №06.](/Lab_Works/Lab_06/Lab_Works_06_Descript.md) PYTHON. Рекурсивні функції.
 ## ЛАБОРАТОРНА РОБОТА №07. PYTHON. Класи 1
 ## ЛАБОРАТОРНА РОБОТА №08. PYTHON. Класи 2
 ## ЛАБОРАТОРНА РОБОТА №09. PYTHON. IDE Spyder. Модулі, пакети.
