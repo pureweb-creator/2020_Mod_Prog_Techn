@@ -16,10 +16,12 @@
 >### [**Лекція 8**](/Lections/Modulo_1/2020_MPT_Lec_08_.pdf) // [**Приклад Func 2**](/Lections/Modulo_1/EXAMPL_LEC_08_PYTHON_07_Func.ipynb)
 ### **Тема 3. Організація проектів в Python.**
 Модулі та пакети. Створення модулів. Імпорт модулів. Пакети. Інсталяція пакетів.
->### [**Лекція 6**](/Lections/Modulo_1/2020_MPT_Lec_09_.pdf) // [**Приклад Modulo_1**](/Lections/Modulo_1/EXAMPL_LEC_09_PYTHON_08_Moduls.ipynb) // [**Приклад Python Programms**](/Lections/Modulo_1/PY_FOR_LEC_09/)
-
+>### [**Лекція 9**](/Lections/Modulo_1/2020_MPT_Lec_09_.pdf) // [**Приклад Modulo_1**](/Lections/Modulo_1/EXAMPL_LEC_09_PYTHON_08_Moduls.ipynb) // [**Приклад Python Programms**](/Lections/Modulo_1/PY_FOR_LEC_09/)
 ### **Тема 4. Класи та об’єкти.**
 Основні відомості. Опис класу. Області видимості та простір імен. Доступ до елементів класу. Підтримка ООП в  Python: інкапсуляція, спадкування, поліморфізм. Атрибути класу, атрибути об’єкту. Закриті атрибути. Визначення та оголошення функцій та класів. Типи та класи в Python.
+>### [**Лекція 10**](/Lections/Modulo_1/2020_MPT_Lec_10_.pdf) // **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_1.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_2.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_3.ipynb) / [**Exampl_4**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_4.ipynb) /
+>### [**Лекція 11**](/Lections/Modulo_1/2020_MPT_Lec_10_.pdf) // 
+
 ### **Тема 5. Типові пакети Python. Огляд.**
 Пакети обробки тексту. Виділення порядків, пошук порядків, заміщення. Розбиття рядків, об’єднання рядків. Основні операції з рядками. Регулярні вирази.
 Математичні пакети - модулі  math, random, statistics, numpy. Масиви – створення та індексація. Операції та функції з масвами. Двовимірні масиви, форма масивів.
