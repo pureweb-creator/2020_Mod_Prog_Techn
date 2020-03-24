@@ -18,11 +18,11 @@
 Модулі та пакети. Створення модулів. Імпорт модулів. Пакети. Інсталяція пакетів.
 >### [**Лекція 9**](/Lections/Modulo_1/2020_MPT_Lec_09_.pdf) // [**Приклад Modulo_1**](/Lections/Modulo_1/EXAMPL_LEC_09_PYTHON_08_Moduls.ipynb) // [**Приклад Python Programms**](/Lections/Modulo_1/PY_FOR_LEC_09/)
 ### **Тема 4. Класи та об’єкти.**
-Основні відомості. Опис класу. Області видимості та простір імен. Доступ до елементів класу. Підтримка ООП в  Python: інкапсуляція, спадкування, поліморфізм. Атрибути класу, атрибути об’єкту. Перевантаження атрибутів.  Ітератори. Генератори.
+Основні відомості. Опис класу. Області видимості та простір імен. Доступ до елементів класу. Підтримка ООП в  Python: інкапсуляція, спадкування, поліморфізм. Атрибути класу, атрибути об’єкту. Перевантаження атрибутів.  Ітератори. Генератори. Виключні ситуації. Стиль коду Python.
 >### [**Лекція 10**](/Lections/Modulo_1/2020_MPT_Lec_10_.pdf) // **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_1.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_2.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_3.ipynb) / [**Exampl_4**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_4.ipynb) /[**Exampl_5**](/Lections/Modulo_1/EXAMPL_LEC_10_PYTHON_09_Class_5.ipynb)
 >### [**Лекція 11**](/Lections/Modulo_1/2020_MPT_Lec_11_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_11_PYTHON_10_Class_1.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_11_PYTHON_10_Class_2.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_11_PYTHON_10_Class_3.ipynb) / [**Exampl_4**](/Lections/Modulo_1/EXAMPL_LEC_11_PYTHON_10_Class_4.ipynb) /[**Exampl_5**](/Lections/Modulo_1/EXAMPL_LEC_11_PYTHON_10_Class_5.ipynb)
 >### [**Приклад створення класу**](/Lections/Modulo_1//PY_FOR_LEC_11/Lec_CLASS_Person_Module_ver_01.py)
-
+>### [**Лекція 12**](/Lections/Modulo_1/2020_MPT_Lec_12_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_12_PYTHON_11_Except.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_12_PYTHON_11_PEP.ipynb) /
 ### **Тема 5. Типові пакети Python. Огляд.**
 Пакети обробки тексту. Виділення порядків, пошук порядків, заміщення. Розбиття рядків, об’єднання рядків. Основні операції з рядками. Регулярні вирази.
 Математичні пакети - модулі  math, random, statistics, numpy. Масиви – створення та індексація. Операції та функції з масвами. Двовимірні масиви, форма масивів.
