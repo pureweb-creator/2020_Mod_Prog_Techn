@@ -24,8 +24,8 @@
 >### [**Приклад створення класу**](/Lections/Modulo_1//PY_FOR_LEC_11/Lec_CLASS_Person_Module_ver_01.py)
 >### [**Лекція 12**](/Lections/Modulo_1/2020_MPT_Lec_12_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_12_PYTHON_11_Except.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_12_PYTHON_11_PEP.ipynb) /
 ### **Тема 5. Типові пакети Python. Огляд.**
-Пакети обробки тексту. Виділення порядків, пошук порядків, заміщення. Розбиття рядків, об’єднання рядків. Основні операції з рядками. Регулярні вирази.
-Математичні пакети - модулі  math, random, statistics, numpy. Масиви – створення та індексація. Операції та функції з масвами. Двовимірні масиви, форма масивів.
-Пакет візуалізації даних Matplotlib. Типові прийоми виводу 2D / 3D графіків.
+Математичні пакети - модулі  math, numpy. Масиви – створення та індексація. Операції та функції з масивами. Двовимірні масиви, форма масивів.
+Пакет візуалізації даних Matplotlib. Типові прийоми вивіду 2D / 3D графіків.
+>### [**Лекція 13**](/Lections/Modulo_1/2020_MPT_Lec_13_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_1_Sys_Math.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_2_NumPy.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_3_SciPy.ipynb)
 
 ## **РЕКОМЕНДОВНА ЛІТЕРАТУРА** --> [**PYTHON**](/Biblio/PYTHON_books_.md)
