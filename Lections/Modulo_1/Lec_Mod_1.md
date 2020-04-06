@@ -28,6 +28,7 @@
 Пакет візуалізації даних Matplotlib. Типові прийоми вивіду 2D / 3D графіків.
 >### [**Лекція 13**](/Lections/Modulo_1/2020_MPT_Lec_13_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_1_Sys_Math.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_2_NumPy.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_13_PYTHON_12_3_SciPy.ipynb)
 >### [**Лекція 14**](/Lections/Modulo_1/2020_MPT_Lec_14_.pdf) //  **Приклади:**  [**Exampl_1**](/Lections/Modulo_1/EXAMPL_LEC_14_PYTHON_13_1_MatPlotLib.ipynb) / [**Exampl_2**](/Lections/Modulo_1/EXAMPL_LEC_14_PYTHON_13_2_MatPlotLib.ipynb) / [**Exampl_3**](/Lections/Modulo_1/EXAMPL_LEC_14_PYTHON_13_3_MatPlot3D.ipynb)/ [**Exampl_4**](/Lections/Modulo_1/EXAMPL_LEC_14_PYTHON_13_4_Animation.ipynb)
+>### [**Лекція 15**](/Lections/Modulo_1/2020_MPT_Lec_15_.pdf) //  **Приклади:**  [**Exampl_1**]() / [**Exampl_2**]() / [**Exampl_3**]()/ [**Exampl_4**]()
 
 ### [**Тест Python.**](/Lections/Modulo_1_Test/Mod_1_Test.md)
 
