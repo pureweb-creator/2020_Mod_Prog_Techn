@@ -6,7 +6,7 @@
 ## [ЛАБОРАТОРНА РОБОТА №06.](/Lab_Works/Lab_06/Lab_Works_06_Descript.md) PYTHON. Рекурсивні функції.
 ## [ЛАБОРАТОРНА РОБОТА №07.](/Lab_Works/Lab_07/Lab_Works_07_Descript.md) PYTHON. Модулі, пакети.
 ## [ЛАБОРАТОРНА РОБОТА №08.](/Lab_Works/Lab_08/Lab_Works_08_Descript.md) PYTHON. Класи 1
-## ЛАБОРАТОРНА РОБОТА №09. PYTHON. Класи 2.
+## [ЛАБОРАТОРНА РОБОТА №09.](/Lab_Works/Lab_09/Lab_Works_09_Descript.md) PYTHON. Класи 2.
 ## ЛАБОРАТОРНА РОБОТА №10. NumPy
 ## ЛАБОРАТОРНА РОБОТА №11. MatPlotLib 2D
 ## ЛАБОРАТОРНА РОБОТА №12. MatPlotLib 3D
