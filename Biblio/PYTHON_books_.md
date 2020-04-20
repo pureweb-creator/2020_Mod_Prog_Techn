@@ -14,6 +14,7 @@
 1. **Копец Д. Классические задачи Computer Science на языке Python**. - СПб.: Питер, 2020. 256 с.: ил. - (Серия «Библиотека программиста).ISBN 978-5-4461-1428-3
 
 ### КОРИСНІ ПОСИЛАННЯ
+1. [**KeyBoard Shortcuts for Data Scientists](Shortcuts_DS_2020.pdf)
 1. [**PYTHON 3**](https://python-scripts.com/)
 1. ### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
 1. ### Математичні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
