@@ -7,9 +7,9 @@
 ## [ЛАБОРАТОРНА РОБОТА №07.](/Lab_Works/Lab_07/Lab_Works_07_Descript.md) PYTHON. Модулі, пакети.
 ## [ЛАБОРАТОРНА РОБОТА №08.](/Lab_Works/Lab_08/Lab_Works_08_Descript.md) PYTHON. Класи 1
 ## [ЛАБОРАТОРНА РОБОТА №09.](/Lab_Works/Lab_09/Lab_Works_09_Descript.md) PYTHON. Класи 2.
-## ЛАБОРАТОРНА РОБОТА №10. NumPy
-## ЛАБОРАТОРНА РОБОТА №11. MatPlotLib 2D
-## ЛАБОРАТОРНА РОБОТА №12. MatPlotLib 3D
+## [ЛАБОРАТОРНА РОБОТА №10.](/Lab_Works/Lab_10/Lab_Works_10_Descript.md)  NumPy
+## [ЛАБОРАТОРНА РОБОТА №11.](/Lab_Works/Lab_11/Lab_Works_11_Descript.md) MatPlotLib 2D
+## [ЛАБОРАТОРНА РОБОТА №12.](/Lab_Works/Lab_12/Lab_Works_12_Descript.md) MatPlotLib 3D
 
 ## ЛАБОРАТОРНА РОБОТА №13. Локальна розробка програм: Git, GitHub
 ## ЛАБОРАТОРНА РОБОТА №14. Елементи колективної роботи: Git, GitHub
