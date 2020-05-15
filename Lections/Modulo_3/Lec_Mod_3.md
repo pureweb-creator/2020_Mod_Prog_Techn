@@ -9,4 +9,5 @@
 >### [**Лекція 24.  Заключна. Огляд курсу.**](/Lections/Modulo_3/2020_MPT_Lec_24_.pdf)
 
 
-## **РЕКОМЕНДОВНА ЛІТЕРАТУРА** --> [**UML**](/Diff_Git_Atom_MarkDown/Atom.md)
+## **РЕКОМЕНДОВНА ЛІТЕРАТУРА** --> [**UML**](Biblio/UML_books_.md)
+## [**Основи UML**](https://docs.kde.org/stable5/uk/kdesdk/umbrello/uml-basics.html)
