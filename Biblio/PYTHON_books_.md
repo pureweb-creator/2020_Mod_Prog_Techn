@@ -18,3 +18,7 @@
 1. [**PYTHON 3**](https://python-scripts.com/)
 1. ### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
 1. ### Математичні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
+
+
+### ADDITIONAL
+1. [**РАЗНЫЕ ПОЛЕЗНЫЕ ССЫЛКИ**](/Biblio/PYTHON_books_Add.md)
